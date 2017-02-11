@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <animation-list
+    xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:oneshot="true">
+
+    <item android:drawable="@drawable/emailanimation3min" android:duration="60" />
+
+    <item android:drawable="@drawable/emailanimation5min" android:duration="60" />
+
+    <item android:drawable="@drawable/emailanimation7min" android:duration="60" />
+
+    <item android:drawable="@drawable/emailanimation9min" android:duration="60" />
+    <item android:drawable="@drawable/emailanimation10min" android:duration="60" />
+
+    <item android:drawable="@drawable/emailanimation12min" android:duration="60" />
+    <item android:drawable="@drawable/emailanimation13min" android:duration="60" />
+
+    <item android:drawable="@drawable/emailanimation15min" android:duration="60" />
+    <item android:drawable="@drawable/emailanimation16min" android:duration="60" />
+
+    <item android:drawable="@drawable/emailanimation18min" android:duration="60" />
+    <item android:drawable="@drawable/emailanimation19min" android:duration="60" />
+
+    <item android:drawable="@drawable/emailanimation21min" android:duration="60" />
+    <item android:drawable="@drawable/emailanimation22min" android:duration="40" />
+    <item android:drawable="@drawable/emailanimation23min" android:duration="60" />
+
+    <item android:drawable="@drawable/emailanimation25min" android:duration="60" />
+    <item android:drawable="@drawable/emailanimation26min" android:duration="40" />
+    <item android:drawable="@drawable/emailanimation27min" android:duration="40" />
+    <item android:drawable="@drawable/emailanimation28min" android:duration="40" />
+    <item android:drawable="@drawable/emailanimation29min" android:duration="40" />
+    <item android:drawable="@drawable/emailanimation30min" android:duration="40" />
+    <item android:drawable="@drawable/emailanimation31min" android:duration="40" />
+    <item android:drawable="@drawable/emailanimation32min" android:duration="40" />
+
+
+</animation-list>
+
+
+

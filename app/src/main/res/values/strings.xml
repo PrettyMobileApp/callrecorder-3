@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Call Recorder</string>
+    <string name="phoneidle">Phone state is idle...</string>
+    <string name="recordingstop">Recording stops here.</string>
+    <string name="startrecording">Offhook and start recording...</string>
+    <string name="playcall">Start playing recorded call...</string>
+    <string name="filenotfound1">No file found on SD card</string>
+    <string name="filedeleted">File has been deleted</string>
+    <string name="filesaved">File has been saved on SD card</string>
+    <string name="filenotfound2">No file found on SD card</string>
+    <string name="load">Load clicked,Please pick recorded call</string>
+    <string name="stat">Stats clicked,Showing your call stats</string>
+
+    <string name="exit">Exit clicked,App closed</string>
+    <string name="activity_page_start_here">Please select option below: </string>
+    <string name="exitbutton">exit</string>
+    <string name="savebutton">save</string>
+    <string name="deletebutton">delete</string>
+    <string name="playbackbutton">playback</string>
+    <string name="call_stats">Call Stats</string>
+    <string name="load_calls">Load Calls</string>
+    <string name="click_to_play_long_click_to_delete">Click to play, Long-click to delete</string>
+    <string name="pick_days_for_your_call_sms_stats">Pick days for your call/SMS stats</string>
+    <string name="back">back</string>
+    <string name="get_stats">Get Stats</string>
+    <string name="backbutton">Back</string>
+    <string name="newtext">New Text</string>
+    <string name="_30">30</string>
+</resources>

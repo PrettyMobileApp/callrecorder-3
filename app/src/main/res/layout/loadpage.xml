@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/callrecordbackground">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/click_to_play_long_click_to_delete"
+        android:id="@+id/textViewload"
+        android:singleLine="true"
+        android:layout_margin="15dp"
+        android:textColor="#6658fc"
+        android:textStyle="bold"
+        android:textSize="20sp" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/backbutton"
+        android:id="@+id/back"
+        android:onClick="clickback"
+        android:singleLine="true"
+        android:textStyle="bold"
+        android:backgroundTint="#6658fc"
+        android:textSize="25sp"
+        android:textColor="#0224fe"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="54dp" />
+
+    <ListView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/listView"
+        android:layout_below="@+id/textViewload"
+        android:layout_alignLeft="@+id/textViewload"
+        android:layout_alignStart="@+id/textViewload"
+        android:layout_above="@+id/back"
+        />
+
+
+</RelativeLayout>
